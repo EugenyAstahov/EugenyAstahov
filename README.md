@@ -20,15 +20,26 @@
   <img src="https://komarev.com/ghpvc/?username=EugenyAstahov&style=flat-square&color=blue" alt=""/>
 </div>
 
+### :woman_technologist: Обо мне:
 
+- :chart_with_upwards_trend: Занимаюсь аналитикой данных 
+- 🔭 За числами нахожу данные, которые помогают в развитии продукта 
+- 🤝 Готов к сотрудничеству 
 
-- 👋 Hi, I’m @EugenyAstahov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### :hammer_and_wrench: Языки и инструменты:
 
-<!---
-EugenyAstahov/EugenyAstahov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <img src="" title="Python" alt="Python" width="90" height="40"/>&nbsp;
+  <img src="" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="" title="Numpy" alt="Numpy" width="90" height="40"/>&nbsp;
+  <img src="" title="Plotly" alt="Plotly" width="90" height="40"/>&nbsp;
+  <img src="" title="SciPy" alt="SciPy" width="90" height="40"/>&nbsp;
+  <img src="" title="Jupyter Notebook" alt="Jupyter Notebook" width="90" height="40"/>&nbsp;
+  <img src="" title="ClickHouse" alt="ClickHouse" width="90" height="40"/>&nbsp;
+  <img src="" title="MSSQL" alt="MSSQL" width="40" height="40"/>&nbsp;
+  <img src="" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="" title="Redash" alt="Redash" width="40" height="40"/>&nbsp;
+  <img src="" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+  <img src="" title="GitHab" alt="GitHab" width="40" height="40"/>&nbsp;
+  <img src="" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp  
+</div>
