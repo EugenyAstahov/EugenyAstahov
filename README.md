@@ -42,7 +42,7 @@
   <img src="https://spin.atomicobject.com/wp-content/uploads/redash.png" title="Redash" alt="Redash" width="70" height="40"/>&nbsp;
   <img src="https://static.tildacdn.com/tild3863-3965-4239-b431-316564656266/original_1_2.png" title="DataLens" alt="DataLens" width=120" height="40"/>&nbsp;
   <img src="https://www.cloudera.com/content/dam/www/dynamic/images/logos/partners/tableau.png" title="Tableau" alt="Tableau" width=120" height="20"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHab" alt="GitHab" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="60" height="40"/>&nbsp;
   <img src="https://www.vippng.com/png/detail/382-3822117_apache-airflow-airflow-logo.png" title="Airflow" alt="Airflow" width="100" height="40"/>&nbsp  
 </div>
