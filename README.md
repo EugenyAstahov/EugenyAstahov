@@ -29,20 +29,20 @@
 ### :hammer_and_wrench: Языки и инструменты:
 
 <div>
-  <img src="https://github.com/EugenyAstahov/Logo/blob/main/Python.jpg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/EugenyAstahov/Logo/blob/main/Pandas.jpg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/50221806/86498208-af4bfe00-bd39-11ea-88fa-c747ae0ddd85.png" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--EOh90KcF--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xm36iqima49zxbqsr8ma.jpg" title="SciPy" alt="SciPy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/EugenyAstahov/Logo/blob/main/Jupyter.jpg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
-  <img src="https://wiki.bicomsystems.com/howto/clickhouse-setup/01-clickhouse-logo.jpeg" title="ClickHouse" alt="ClickHouse" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/EugenyAstahov/Logo/blob/main/MSSQL.jpg" title="MSSQL" alt="MSSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/EugenyAstahov/Logo/blob/main/PostgreSQL.jpg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://www.tadviser.ru/images/a/ae/Teradata_%D0%9B%D0%9E%D0%93%D0%9E_2021.png" title="Teradata" alt="Teradata" width="40" height="20"/>&nbsp;
-  <img src="https://spin.atomicobject.com/wp-content/uploads/redash.png" title="Redash" alt="Redash" width="40" height="40"/>&nbsp;
-  <img src="https://static.tildacdn.com/tild3863-3965-4239-b431-316564656266/original_1_2.png" title="DataLens" alt="DataLens" width=40" height="40"/>&nbsp;
-  <img src="https://www.cloudera.com/content/dam/www/dynamic/images/logos/partners/tableau.png" title="Tableau" alt="Tableau" width=40" height="40"/>&nbsp;
-  <img src="https://github.com/EugenyAstahov/Logo/blob/main/GitHub.jpg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/EugenyAstahov/Logo/blob/main/GitLab.jpg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
-  <img src="https://www.vippng.com/png/detail/382-3822117_apache-airflow-airflow-logo.png" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp  
+  <img src="https://github.com/EugenyAstahov/Logo/blob/main/python.png" title="Python" alt="Python" width="108" height="45"/>&nbsp;
+  <img src="https://github.com/EugenyAstahov/Logo/blob/main/pandas.png" title="Pandas" alt="Pandas" width="108" height="45"/>&nbsp;
+  <img src="https://github.com/EugenyAstahov/Logo/blob/main/NumPy.png" title="Numpy" alt="Numpy" width="108" height="45"/>&nbsp;
+  <img src="https://github.com/EugenyAstahov/Logo/blob/main/plotly.png" title="Plotly" alt="Plotly" width="108" height="45"/>&nbsp;
+  <img src="https://github.com/EugenyAstahov/Logo/blob/main/SciPy.png" title="SciPy" alt="SciPy" width="108" height="45"/>&nbsp;
+  <img src="https://github.com/EugenyAstahov/Logo/blob/main/jupyter.png" title="Jupyter Notebook" alt="Jupyter Notebook" width="108" height="45"/>&nbsp;
+  <img src="https://github.com/EugenyAstahov/Logo/blob/main/ClickHouse.png" title="ClickHouse" alt="ClickHouse" width="108" height="45"/>&nbsp;
+  <img src="https://github.com/EugenyAstahov/Logo/blob/main/MSSQL.png" title="MSSQL" alt="MSSQL" width="108" height="45"/>&nbsp;
+  <img src="https://github.com/EugenyAstahov/Logo/blob/main/PostgreSQL.png" title="PostgreSQL" alt="PostgreSQL" width="108" height="45"/>&nbsp;
+  <img src="https://github.com/EugenyAstahov/Logo/blob/main/Teradata.png" title="Teradata" alt="Teradata" width="108" height="45"/>&nbsp;
+  <img src="https://github.com/EugenyAstahov/Logo/blob/main/Redash.png" title="Redash" alt="Redash" width="108" height="45"/>&nbsp;
+  <img src="https://github.com/EugenyAstahov/Logo/blob/main/DataLens.png" title="DataLens" alt="DataLens" width="108" height="45"/>&nbsp;
+  <img src="https://github.com/EugenyAstahov/Logo/blob/main/Tableau.png" title="Tableau" alt="Tableau" width="108" height="45"/>&nbsp;
+  <img src="https://github.com/EugenyAstahov/Logo/blob/main/GitHub.png" title="GitHub" alt="GitHub" width="108" height="45"/>&nbsp;
+  <img src="https://github.com/EugenyAstahov/Logo/blob/main/gitlab.png" title="GitLab" alt="GitLab" width="108" height="45"/>&nbsp;
+  <img src="https://github.com/EugenyAstahov/Logo/blob/main/Airflow.png" title="Airflow" alt="Airflow" width="108" height="45"/>&nbsp  
 </div>
