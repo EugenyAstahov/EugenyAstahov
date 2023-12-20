@@ -20,11 +20,19 @@
   <img src="https://komarev.com/ghpvc/?username=EugenyAstahov&style=flat-square&color=blue" alt=""/>
 </div>
 
-### :woman_technologist: Обо мне:
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: Обо мне:
 
 - :chart_with_upwards_trend: Занимаюсь аналитикой данных 
 - 🔭 За числами нахожу данные, которые помогают в развитии продукта 
 - 🤝 Готов к сотрудничеству 
+
+---
 
 ### :hammer_and_wrench: Языки и инструменты:
 
@@ -46,3 +54,20 @@
   <img src="https://github.com/EugenyAstahov/Logo/blob/main/gitlab.png" title="GitLab" alt="GitLab" width="96" height="40"/>&nbsp;
   <img src="https://github.com/EugenyAstahov/Logo/blob/main/Airflow.png" title="Airflow" alt="Airflow" width="96" height="40"/>&nbsp  
 </div>
+
+---
+
+### 📖: Мои проекты:
+
+| Название проекта | Описание проекта | Стек |
+| --- | --- | --- |
+| git status | git status | git status |
+
+---
+
+### :fire: Моя статистика:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EugenyAstahov&theme=dark&locale=ru)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EugenyAstahov&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
+
