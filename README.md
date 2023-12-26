@@ -58,7 +58,7 @@
 | Название проекта | Описание проекта | Стек |
 | --- | --- | --- |
 | [Profit Overview](https://datalens.yandex.ru/vj1x1zmbmrwck-profit-overview), [Прокат велосипедов](https://datalens.yandex.ru/f35ipdrvjvg63-prokat-velosipedov) | Подключение к БД, построение графиков с использованием новых полей, верстка дашборда | Yandex Datalens |
-| [?](), [?]() | Подключение к БД, построение графиков с использованием новых полей, верстка дашборда | Tableau |
+| [Sample Superstore](https://public.tableau.com/app/profile/eugeny.astahov/viz/SampleSuperstore_17036217797190/SampleSuperstore) | Подключение к БД, построение графиков с использованием новых полей, верстка дашборда | Tableau |
 
 ---
 
