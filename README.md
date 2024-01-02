@@ -59,6 +59,7 @@
 | --- | --- | --- |
 | [Profit Overview](https://datalens.yandex/vj1x1zmbmrwck), [Яндекс Директ](https://datalens.yandex/pevtgve3cpked) | Подключение к БД, построение графиков с использованием новых полей, верстка дашборда | Yandex Datalens |
 | [Sample Superstore](https://public.tableau.com/app/profile/eugeny.astahov/viz/SampleSuperstore_17036217797190/SampleSuperstore), [Sales Monthly Overview](https://public.tableau.com/app/profile/eugeny.astahov/viz/KarpovDashboardv1nodash_17040177301330/SalesMonthlyOverview) | Подключение к БД, построение графиков с использованием новых полей, верстка дашборда | Tableau |
+| [Gamedev_analysis]([https://datalens.yandex/vj1x1zmbmrwck](https://github.com/EugenyAstahov/Gamedev_analysis)) | Формирование когорт по дате регистрации в приложении, проведение bootstrap для определения значимости изменений в ARPU и ARPPU, проведение теста Хи-квадрат для сравнения конверсии, формирование группы метрик при изменении механики приложения | Pandas, Requests, Scipy, Numpy, Plotly |
 
 ---
 
