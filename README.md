@@ -14,6 +14,9 @@
   <a href="https://wa.me/79384296089">
     <img src="https://img.shields.io/badge/whatsapp-dark%20green?logo=whatsapp&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <a href=mailto:astahoff.evgeny@gmail.com>
+    <img src="https://img.shields.io/badge/gmail-gray?logo=gmail&logoColor=rad" alt="Gmail Badge"/>
+  </a>
 </div>
 
 <div id="header" align="center">
