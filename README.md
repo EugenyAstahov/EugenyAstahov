@@ -34,7 +34,7 @@
     <td>Описание проекта</td>
     <td>Стек</td>
   </tr>
-  <tr align="center" valign="middle">
+  <tr align="center">
     <td colspan="3">A/B тесты</td>
   </tr>
 </table>
