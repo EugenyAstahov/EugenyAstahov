@@ -21,8 +21,9 @@
 <br> **Анализ и визуализация данных**:
 <br>  - **Библиотеки**: Pandas, NumPy, SciPy, Statsmodels, Plotly, Matplotlib, Seaborn.
 <br>  - **Инструменты**: DataLens, Superset.
-<br> **A/B тесты**:
+<br> **A/B тесты**: SciPy, Statsmodels, Pingouin
 <br> **Машинное обучение**: Scikit-learn.</br>
+<br> **IDEs**: Jupyter Notebook, JupyterLab</br>
 
 
 ### 📖: Мои проекты:
