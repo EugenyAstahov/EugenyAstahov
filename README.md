@@ -1,7 +1,6 @@
-<h1 align="left">
+<align="left">
   Привет, меня зовут Евгений
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
-</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 
 <div id="badges" align="left">
   <a href="https://t.me/Astahov_Evgeny">
