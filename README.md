@@ -17,7 +17,7 @@
 
 ### 🛠 Мой стек технологий:
 
-<p> **Языки программирования**: Python, SQL (Teradata, MSSQL, Oracle, Greenplum, PosgreSQL)
+**Языки программирования**: Python, SQL (Teradata, MSSQL, Oracle, Greenplum, PosgreSQL)
 <br> **Анализ и визуализация данных**:
 <br>  - **Библиотеки**: Pandas, NumPy, SciPy, Statsmodels, Plotly, Matplotlib, Seaborn.
 <br>  - **Инструменты**: DataLens, Superset.
