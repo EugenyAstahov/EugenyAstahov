@@ -1,9 +1,9 @@
 <h1 align="left">
   Привет, меня зовут Евгений
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/>
 </h1>
 
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="https://t.me/Astahov_Evgeny">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -15,9 +15,6 @@
   </a>
 </div>
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=EugenyAstahov&style=flat-square&color=blue" alt=""/>
-</div>
 
 ---
 
