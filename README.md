@@ -1,6 +1,8 @@
 ## Привет :hand: меня зовут Евгений  
 
+Я - аналитик данных с опытом работы в компании Магнит, где занимался повышением эффективности работы магазинов
 
+### :mailbox_with_mail: Контакты:
 <div id="badges" align="left">
   <a href="https://t.me/Astahov_Evgeny">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,9 +11,6 @@
     <img src="https://img.shields.io/badge/gmail-gray?logo=gmail&logoColor=rad" alt="Gmail Badge"/>
   </a>
 </div>
-
-Я - аналитик данных с опытом работы в компании Магнит, где занимался повышением эффективности работы магазинов
-
 ---
 
 ### :man_technologist: Обо мне:
