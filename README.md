@@ -57,13 +57,3 @@
 | [E-commerce](https://github.com/EugenyAstahov/E-commerce/tree/main) | Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ | Pandas, Seaborn, Matplotlib, Requests |
 | [Проектная работа по SQL](https://github.com/EugenyAstahov/SQL_avia/tree/main) | Решение задач по группировке, объединению таблиц, агрегатным функциям, подзапросам и представлениям | PostgreSQL, DBeaver |
 
-
-
----
-
-### :fire: Моя статистика:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EugenyAstahov&theme=dark&locale=ru)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EugenyAstahov&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
-
