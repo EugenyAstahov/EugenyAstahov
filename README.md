@@ -37,6 +37,10 @@
   <tr align="center">
     <td colspan="3">A/B тесты</td>
   </tr>
+  <tr>
+    <td>Анализ приложения доставки</td>
+    <td></td>
+    <td></td>
 </table>
 
 
