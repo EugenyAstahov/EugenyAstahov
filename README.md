@@ -17,12 +17,12 @@
 
 ### 🛠 Мой стек технологий:
 
-**Языки программирования**: Python, SQL (Teradata, MSSQL, Oracle, Greenplum, PosgreSQL)
-**Анализ и визуализация данных**:
-  - **Библиотеки**: Pandas, NumPy, SciPy, Statsmodels, Plotly, Matplotlib, Seaborn.
-  - **Инструменты**: DataLens, Superset.
-**A/B тесты**:
-**Машинное обучение**: Scikit-learn.
+<p>**Языки программирования**: Python, SQL (Teradata, MSSQL, Oracle, Greenplum, PosgreSQL)
+<br>**Анализ и визуализация данных**:</br>
+<br>  - **Библиотеки**: Pandas, NumPy, SciPy, Statsmodels, Plotly, Matplotlib, Seaborn.</br>
+<br>  - **Инструменты**: DataLens, Superset.</br>
+<br>**A/B тесты**:</br>
+<br>**Машинное обучение**: Scikit-learn.</br>
 
 
 ---
