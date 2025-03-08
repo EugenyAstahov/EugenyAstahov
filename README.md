@@ -26,7 +26,7 @@
 <br> **IDEs**: Jupyter Notebook, JupyterLab</br>
 
 
-### 📖: Мои проекты:
+### 📖 Мои проекты:
 
 <table border="1">
   <tr>
